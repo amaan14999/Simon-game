@@ -15,7 +15,7 @@ The Simon Game is a classic memory game where players have to repeat a sequence 
 
 The Simon Game consists of a circular game console with four colored buttons: Red, Green, Blue, and Yellow. The console produces a sequence of tones and lights on the buttons. The player's task is to repeat the sequence by pressing the buttons in the correct order. The sequence gets longer and more complex as the game progresses.
 
-![Alt text](simon-game.gif)
+![Alt text](./assets/simon-game.gif)
 
 ## Instructions
 

@@ -51,4 +51,4 @@ Submit a pull request, describing the changes you made.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT](https://github.com/amaan14999/Simon-game/blob/main/LICENSE) License.
